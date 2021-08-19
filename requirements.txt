@@ -1,0 +1,5 @@
+requests==2.25.1
+names==0.3.0
+easy-password-generator==0.0.7
+discord-webhook==0.14.0
+colorama==0.4.4
